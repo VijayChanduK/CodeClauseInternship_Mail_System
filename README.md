@@ -22,7 +22,7 @@ Mail System JS is a full-stack application designed to facilitate user registrat
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/mailsystemjs.git
+   git clone https://github.com/VijayChanduK/CodeClauseInternship_Mail_System.git
    cd mailsystemjs/backend
    ```
 
@@ -195,9 +195,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
-
-Special thanks to the open-source community for the tools and resources that made this project possible.
 
 ---
 
